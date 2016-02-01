@@ -1,0 +1,35 @@
+{
+  "name": "air-controller",
+  "version": "1.0.0",
+  "description": "A boilerplate for air-controller apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fed135/air-controller.git"
+  },
+  "keywords": [
+    "air",
+    "controller",
+    "app",
+    "web",
+    "mobile",
+    "android",
+    "iphone",
+    "windows",
+    "phone",
+    "tablet"
+  ],
+  "author": "frederic charette",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fed135/air-controller/issues"
+  },
+  "homepage": "https://github.com/fed135/air-controller#readme",
+  "dependencies": {
+    "pushstate-server": "^1.8.1",
+    "socket.io": "^1.4.5"
+  }
+}
